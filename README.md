@@ -1,5 +1,6 @@
 # OntoWiki
 
+Note: This project is not under active development anymore. See [this issue](https://github.com/AKSW/OntoWiki/issues/441) for more details.
 
 [![Travis CI Build Status](https://travis-ci.org/AKSW/OntoWiki.svg)](https://travis-ci.org/AKSW/OntoWiki/) [![Latest Stable Version](https://poser.pugx.org/aksw/ontowiki/v/stable)](https://packagist.org/packages/aksw/ontowiki) [![Total Downloads](https://poser.pugx.org/aksw/ontowiki/downloads)](https://packagist.org/packages/aksw/ontowiki) [![License](https://poser.pugx.org/aksw/ontowiki/license)](https://packagist.org/packages/aksw/ontowiki) [![composer.lock](https://poser.pugx.org/aksw/ontowiki/composerlock)](https://packagist.org/packages/aksw/ontowiki)
 
